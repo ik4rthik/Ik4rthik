@@ -1,15 +1,56 @@
-# Hi, I'm Karthik 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=K;Ka;Kar;Kart;Karth;Karthi;Karthik+S" alt="Typing SVG" />
+</p>
 
-🎓 Computer Science Engineering (Artificial Intelligence) student at Adi Shankara Institute of Engineering and Technology (ASIET), currently in S7.
+<h1 align="center">Who is Karthik?</h1>
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), and building real-world AI applications through hands-on projects.
+```json
+{
+  "name": "Karthik S",
+  "role": "AI Engineering Student",
+  "college": "Adi Shankara Institute of Engineering and Technology",
+  "program": "Computer Science Engineering (Artificial Intelligence)",
+  "semester": "S7",
 
-🚀 Currently exploring AI systems, modern LLM applications, and practical ML workflows while strengthening core foundations in programming, data structures, and system design.
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "RAG Systems",
+    "LLMs",
+    "AI Agents",
+    "Real-World AI Applications"
+  ],
 
-## 📌 Repositories
+  "currently_learning": [
+    "RAG",
+    "LangChain",
+    "Vector Databases",
+    "Streamlit",
+    "LLM Applications"
+  ]
+}
+```
 
-* 🚀 **ByteByByte** → Programming foundations, DSA, Java, C, and OS practice codes
-* 🤖 **ModelByModel** → AI/ML experiments, RAG systems, and practical learning projects
-* 🏥 **SwiftRelief** → AI-powered hospital recommendation mini project
-* ⚖️ **LexiKerala** → AI-driven legal assistance and document retrieval system
+## 🚀 Repository Ecosystem
 
+| Repository      | Purpose                                                       |
+| --------------- | ------------------------------------------------------------- |
+| 🚀 ByteByByte   | Programming foundations, DSA, Java, C, OS and problem solving |
+| 🤖 ModelByModel | AI/ML experiments, RAG systems and learning projects          |
+| 🏥 SwiftRelief  | AI-powered hospital recommendation mini project               |
+| ⚖️ LexiKerala   | AI-driven legal assistance and document retrieval system      |
+
+## 📈 Current Mission
+
+* Building practical AI projects
+* Exploring modern LLM applications
+* Understanding ML models from theory to implementation
+* Learning one model at a time, one project at a time
+
+## 🛠️ Tech Stack
+
+Python • LangChain • Streamlit • Scikit-Learn • Pandas • NumPy • Git • GitHub
+
+---
+
+> Building intelligent systems one model at a time.
