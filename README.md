@@ -39,7 +39,7 @@
 | 🚀 **ByteByByte**   | Programming foundations, DSA, Java, C, Operating Systems, and problem-solving practice |
 | 🤖 **ModelByModel** | AI/ML experiments, RAG systems, and hands-on learning projects                         |
 | 🏥 **SwiftRelief**  | AI-powered hospital recommendation system (Academic Mini Project)                      |
-| ⚖️ **LexiKerala**   | AI-driven legal assistance and document retrieval platform                             |
+| ⚖️ **LexiKerala**   | AI-driven legal assistance and document retrieval platform (Main Project)              |
 
 ---
 
