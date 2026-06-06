@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=K;Ka;Kar;Kart;Karth;Karthi;Karthik+S" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
 </p>
 
-<h1 align="center">Who is Karthik?</h1>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Who+is+Karthik%3F;AI+Student;Builder;Learner" />
+</h1>
 ```json
 {
   "name": "Karthik S",
