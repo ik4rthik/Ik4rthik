@@ -1,118 +1,71 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
 </p>
 
 <h1 align="center">
-  Who is Karthik
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=80&lines=.;..;..." />
+  Who is Karthik? <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=1&color=58A6FF&vCenter=true&repeat=true&width=60&height=35&lines=..." />
 </h1>
 
 ```json
 {
   "name": "Karthik S",
-  "role": "Artificial Intelligence Student",
-  "institution": "Adi Shankara Institute of Engineering and Technology",
+  "role": "AI Engineering Student",
+  "college": "Adi Shankara Institute of Engineering and Technology",
   "program": "Computer Science Engineering (Artificial Intelligence)",
   "semester": "S7",
 
   "interests": [
     "Artificial Intelligence",
     "Machine Learning",
-    "Retrieval-Augmented Generation",
-    "Large Language Models",
-    "AI Agents",
-    "Real-World AI Applications"
+    "RAG Systems",
+    "LLMs",
+    "AI Applications",
+    "AI Engineering"
   ],
 
   "currently_learning": [
-    "RAG Systems",
+    "RAG Pipelines",
     "LangChain",
     "Vector Databases",
     "Streamlit",
-    "Generative AI Applications"
+    "LLM Applications"
   ]
 }
 ```
 
 ## 🚀 Repository Ecosystem
 
-| Repository          | Description                                                                   |
-| ------------------- | ----------------------------------------------------------------------------- |
-| 🚀 **ByteByByte**   | Programming foundations, DSA, Java, C, Operating Systems, and problem-solving |
-| 🤖 **ModelByModel** | AI/ML experiments, RAG systems, and practical learning projects               |
-| 🏥 **SwiftRelief**  | AI-powered hospital recommendation system (Academic Mini Project)             |
-| ⚖️ **LexiKerala**   | AI-driven legal assistance and document retrieval platform                    |
-
-## 📈 Current Focus
-
-* Building practical AI applications
-* Exploring Retrieval-Augmented Generation (RAG)
-* Understanding Machine Learning from fundamentals to deployment
-* Developing real-world solutions through project-based learning
-
-## 🛠️ Technologies
-
-`Python` • `LangChain` • `Streamlit` • `Scikit-Learn` • `Pandas` • `NumPy` • `Git` • `GitHub`
+| Repository      | Purpose                                                         |
+| --------------- | --------------------------------------------------------------- |
+| 🚀 ByteByByte   | Programming foundations, DSA, Java, C, OS, and problem solving  |
+| 🤖 ModelByModel | AI/ML experiments, RAG systems, and practical learning projects |
+| 🏥 SwiftRelief  | AI-powered hospital recommendation mini project                 |
+| ⚖️ LexiKerala   | AI-driven legal assistance and document retrieval system        |
 
 ---
 
-> Building intelligent systems, one model at a time.
+## 📈 Current Mission
+
+* Building practical AI applications
+* Exploring modern LLM and RAG systems
+* Understanding ML concepts through implementation
+* Strengthening problem-solving and system design skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**
+Python • Java • C • Git • GitHub
+
+**AI & ML**
+Scikit-Learn • TensorFlow • LangChain • Pandas • NumPy
+
+**Development**
+Streamlit • Flask • REST APIs
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
+  <i>"Learning one model at a time. Building one project at a time."</i>
 </p>
-
-<h1 align="center">
-  Who is Karthik
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=true&width=80&lines=.;..;..." />
-</h1>
-
-```json
-{
-  "name": "Karthik S",
-  "role": "Artificial Intelligence Student",
-  "institution": "Adi Shankara Institute of Engineering and Technology",
-  "program": "Computer Science Engineering (Artificial Intelligence)",
-  "semester": "S7",
-
-  "interests": [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Retrieval-Augmented Generation",
-    "Large Language Models",
-    "AI Agents",
-    "Real-World AI Applications"
-  ],
-
-  "currently_learning": [
-    "RAG Systems",
-    "LangChain",
-    "Vector Databases",
-    "Streamlit",
-    "Generative AI Applications"
-  ]
-}
-```
-
-## 🚀 Repository Ecosystem
-
-| Repository          | Description                                                                   |
-| ------------------- | ----------------------------------------------------------------------------- |
-| 🚀 **ByteByByte**   | Programming foundations, DSA, Java, C, Operating Systems, and problem-solving |
-| 🤖 **ModelByModel** | AI/ML experiments, RAG systems, and practical learning projects               |
-| 🏥 **SwiftRelief**  | AI-powered hospital recommendation system (Academic Mini Project)             |
-| ⚖️ **LexiKerala**   | AI-driven legal assistance and document retrieval platform                    |
-
-## 📈 Current Focus
-
-* Building practical AI applications
-* Exploring Retrieval-Augmented Generation (RAG)
-* Understanding Machine Learning from fundamentals to deployment
-* Developing real-world solutions through project-based learning
-
-## 🛠️ Technologies
-
-`Python` • `LangChain` • `Streamlit` • `Scikit-Learn` • `Pandas` • `NumPy` • `Git` • `GitHub`
-
----
-
-> Building intelligent systems, one model at a time.
