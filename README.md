@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
-</p>
-
 <h1 align="center">Who is Karthik?</h1>
 
 <p align="center">
