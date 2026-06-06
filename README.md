@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Who is Karthik? <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1200&pause=1&color=58A6FF&vCenter=true&repeat=true&width=60&height=35&lines=..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFFFFF&center=true&vCenter=true&width=450&lines=Who+is+Karthik%3F.;Who+is+Karthik%3F..;Who+is+Karthik%3F..." />
 </h1>
 
 ```json
@@ -35,12 +35,12 @@
 
 ## 🚀 Repository Ecosystem
 
-| Repository      | Purpose                                                         |
-| --------------- | --------------------------------------------------------------- |
-| 🚀 ByteByByte   | Programming foundations, DSA, Java, C, OS, and problem solving  |
-| 🤖 ModelByModel | AI/ML experiments, RAG systems, and practical learning projects |
-| 🏥 SwiftRelief  | AI-powered hospital recommendation mini project                 |
-| ⚖️ LexiKerala   | AI-driven legal assistance and document retrieval system        |
+| Repository          | Purpose                                                         |
+| ------------------- | --------------------------------------------------------------- |
+| 🚀 **ByteByByte**   | Programming foundations, DSA, Java, C, OS, and problem solving  |
+| 🤖 **ModelByModel** | AI/ML experiments, RAG systems, and practical learning projects |
+| 🏥 **SwiftRelief**  | AI-powered hospital recommendation mini project                 |
+| ⚖️ **LexiKerala**   | AI-driven legal assistance and document retrieval system        |
 
 ---
 
@@ -55,17 +55,21 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
-Python • Java • C • Git • GitHub
+### Languages & Tools
 
-**AI & ML**
-Scikit-Learn • TensorFlow • LangChain • Pandas • NumPy
+`Python` • `Java` • `C` • `Git` • `GitHub`
 
-**Development**
-Streamlit • Flask • REST APIs
+### AI & ML
+
+`Scikit-Learn` • `TensorFlow` • `LangChain` • `Pandas` • `NumPy`
+
+### Development
+
+`Streamlit` • `Flask` • `REST APIs`
 
 ---
 
 <p align="center">
   <i>"Learning one model at a time. Building one project at a time."</i>
 </p>
+
