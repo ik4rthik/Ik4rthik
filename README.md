@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Generating+Profile...;Loading+Projects...;Initializing+AI+Portfolio..." />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FFFFFF&center=true&vCenter=true&width=450&lines=Who+is+Karthik%3F.;Who+is+Karthik%3F..;Who+is+Karthik%3F..." />
-</h1>
+<h1 align="center">Who is Karthik?</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=1&color=58A6FF&center=true&vCenter=true&width=300&lines=Generating+Response...;Analyzing+Profile...;Returning+Output..." />
+</p>
 
 ```json
 {
   "name": "Karthik S",
-  "role": "AI Engineering Student",
+  "role": "CSE (AI) Student",
   "college": "Adi Shankara Institute of Engineering and Technology",
   "program": "Computer Science Engineering (Artificial Intelligence)",
   "semester": "S7",
@@ -72,4 +74,3 @@
 <p align="center">
   <i>"Learning one model at a time. Building one project at a time."</i>
 </p>
-
